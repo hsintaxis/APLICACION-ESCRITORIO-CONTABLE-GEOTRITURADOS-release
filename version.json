@@ -1,7 +1,7 @@
 {
-  "app": "GeotrituradosFinanzas",
-  "version": "0.3.1",
-  "release_date": "2026-09-15",
-  "release_channel": "pilot",
-  "update_enabled": true
+  "version": "0.3.2",
+  "release_date": "2026-09-28",
+  "notes": "Mejoras y correcciones de Geotriturados Finanzas.",
+  "download_url": "https://github.com/hsintaxis/APLICACION-ESCRITORIO-CONTABLE-GEOTRITURADOS-release/releases/latest/download/GeotrituradosFinanzas_Portable.zip",
+  "sha256": "2c2e6c624766cf16b9ae7b2000abcbb9a63d5a52d8d5dbd52c535977e44b9d74"
 }
